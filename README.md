@@ -1,12 +1,13 @@
-## 👋 Hi there!  
-### I'm **Eloysa Siani**  
+## 👋 Hi! I'm **Eloysa Siani**  
+### I am constantly learning new technologies and improving my skills 
 🧠 *Fullstack Developer in training*
 
 💻 **Skills constantly evolving:**  
 HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MySQL • REST APIs • React • Vue.js • Angular • Webpack • Git • GitHub... and more!
 
 🚀 **Currently building practical projects** that integrate front-end, back-end, and databases.
-
+📚 Here you will find my projects, open source contributions, and the challenges I overcome in the world of development.
+💬 Feel free to explore, contribute, and connect!
 
 <br/> 📝 Want to know more about me, what I am learning and building? Take a look at my [LinkedIn](https://www.linkedin.com/in/eloysa-siani/)
 
@@ -60,8 +61,7 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
      alt="Activity Graph Eloysa Siani"/>
 </p>
 
-### Contributions in the last year:  
-![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff)
+
 
 
 <!--
