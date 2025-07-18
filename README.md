@@ -37,7 +37,7 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 
 <div align="center">
   <a href="https://github.com/eloysasiani">
-    <img align="center" height="180" 
+    <img align="center" height="180" margin-right: 20px 
          src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
          alt="GitHub Stats Eloysa Siani"/>
   </a>
