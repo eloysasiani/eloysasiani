@@ -59,6 +59,8 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
      src="https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff"
      alt="Activity Graph Eloysa Siani"/>
 </p>
+<br>
+![GitHub contributions](https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&count_private=true)
 
 
 <!--
