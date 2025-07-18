@@ -114,7 +114,7 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 
 ## 🌱 Contribution Activity
 
-[![Eloysa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysa-siani&theme=tokyo-night&hide_border=true)](https://github.com/eloysasiani)
+[![Eloysa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&hide_border=true)](https://github.com/eloysasiani)
 
 
 <!--
