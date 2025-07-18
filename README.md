@@ -40,6 +40,11 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
      src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
      alt="GitHub Stats Eloysa Siani"/>
 </p>
+<p>
+<img align="center"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloysasiani&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117"
+     alt="Top Langs Eloysa Siani"/>
+</p>
 <br>
 
 
@@ -48,11 +53,6 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 <img align="center"
      src="https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff"
      alt="Activity Graph Eloysa Siani"/>
-</p>
-<p>
-<img align="center"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloysasiani&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117"
-     alt="Top Langs Eloysa Siani"/>
 </p>
 
 
