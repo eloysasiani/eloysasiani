@@ -31,41 +31,26 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eloysasiani&theme=radical&hide_border=true" width="48%" />
-</p>
-<div>
-  <p>
-    <img align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=eloysasiani&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117"
-      alt="eloysasiani"
-    />
-  </p>
-  <br />
-</div>
 <p>
 <img align="center" 
      src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
      alt="GitHub Stats Eloysa Siani"/>
 </p>
 <p>
-<img align="center"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff"
-     alt="Activity Graph Eloysa Siani"/>
-
-</p>
 <br>
 
 
 ## 🌱 Contribution Activity
 
-[![Eloysa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&hide_border=true)](https://github.com/eloysasiani)
-<!-- Snake animation -->
-<img src="https://github.com/eloysasiani/eloysasiani/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img align="center"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff"
+     alt="Activity Graph Eloysa Siani"/>
+
+</p>
 
 
 
