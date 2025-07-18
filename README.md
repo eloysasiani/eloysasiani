@@ -47,12 +47,26 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
   </p>
   <br />
 </div>
+<p>
+<img align="center" 
+     src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
+     alt="GitHub Stats Eloysa Siani"/>
+</p>
+<p>
+<img align="center"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff"
+     alt="Activity Graph Eloysa Siani"/>
+
+</p>
 <br>
 
 
 ## 🌱 Contribution Activity
 
 [![Eloysa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&hide_border=true)](https://github.com/eloysasiani)
+<!-- Snake animation -->
+<img src="https://github.com/eloysasiani/eloysasiani/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 
 <!--
