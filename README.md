@@ -6,7 +6,9 @@
 HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MySQL • REST APIs • React • Vue.js • Angular • Webpack • Git • GitHub... and more!
 
 🚀 **Currently building practical projects** that integrate front-end, back-end, and databases.
+
 📚 Here you will find my projects, open source contributions, and the challenges I overcome in the world of development.
+
 💬 Feel free to explore, contribute, and connect!
 
 <br/> 📝 Want to know more about me, what I am learning and building? Take a look at my [LinkedIn](https://www.linkedin.com/in/eloysa-siani/)
