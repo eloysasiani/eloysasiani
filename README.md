@@ -35,18 +35,21 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/eloysasiani">
-    <img align="center" height="180" style="margin-right: 70px;"
-         src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
-         alt="GitHub Stats Eloysa Siani"/>
-  </a>
-  <a href="https://github.com/eloysasiani">
-    <img align="center" height="180"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloysasiani&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
-         alt="Top Langs Eloysa Siani"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/eloysasiani">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats Eloysa Siani"/>
+      </a>
+    </td>
+    <td width="30"></td> <!-- Espaçamento entre os gráficos -->
+    <td>
+      <a href="https://github.com/eloysasiani">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloysasiani&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" alt="Top Langs Eloysa Siani"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
