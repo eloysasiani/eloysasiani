@@ -31,7 +31,7 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin-right: 70px; margin-bottom: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin-right: 70px; margin-bottom: 10px;" />
 </p>
-
+<br>
 
 ## 📊 GitHub Stats
 
