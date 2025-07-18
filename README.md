@@ -11,15 +11,6 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 <br/> 📝 Want to know more about me, what I am learning and building? Take a look at my [LinkedIn](https://www.linkedin.com/in/eloysa-siani/)
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ## 🛠️ Languages and Tools:
 
@@ -56,6 +47,7 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
   </p>
   <br />
 </div>
+<br>
 
 
 ## 🌱 Contribution Activity
