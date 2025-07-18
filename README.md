@@ -10,14 +10,6 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 
 <br/> 📝 Want to know more about me, what I am learning and building? Take a look at my [LinkedIn](https://www.linkedin.com/in/eloysa-siani/)
 
-<div>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&locale=en" alt="eloysasiani" />
-  </p>
-  <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloysasiani&show_icons=true&locale=en&layout=compact" alt="eloysasiani" />
-  </p><br />
-</div>
 <br />
 <br />
 <br />
@@ -55,6 +47,16 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
   <img src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eloysasiani&theme=radical&hide_border=true" width="48%" />
 </p>
+<div>
+  <p>
+    <img align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=eloysasiani&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117"
+      alt="eloysasiani"
+    />
+  </p>
+  <br />
+</div>
+
 
 ## 🌱 Contribution Activity
 
