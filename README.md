@@ -8,7 +8,7 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 🚀 **Currently building practical projects** that integrate front-end, back-end, and databases.
 
 
-📝<br />📄 Want to know more about me, what I am learning and building? Take a look at my [LinkedIn](https://www.linkedin.com/in/eloysa-siani/)
+<br/> 📝 Want to know more about me, what I am learning and building? Take a look at my [LinkedIn](https://www.linkedin.com/in/eloysa-siani/)
 
 <div>
   <p>
@@ -108,13 +108,13 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eloysa-siani&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eloysa-siani&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eloysasiani&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ## 🌱 Contribution Activity
 
-[![Eloysa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysa-siani&theme=tokyo-night&hide_border=true)](https://github.com/eloysa-siani)
+[![Eloysa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysa-siani&theme=tokyo-night&hide_border=true)](https://github.com/eloysasiani)
 
 
 <!--
