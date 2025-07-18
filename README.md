@@ -29,80 +29,24 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
 <br />
 <br />
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
-<p align="left"> 
-  <!-- FRONTEND -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="icons/css3.svg" alt="CSS3" width="40" height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40" /> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/react.svg" alt="React" width="40" height="40" /> 
-  </a>
-  <a href="https://reactjs.org/docs/hooks-intro.html" target="_blank" rel="noreferrer"> 
-    <img src="icons/react-hooks.png" alt="React Hooks" width="40" height="40" /> 
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/redux.svg" alt="Redux" width="40" height="40" /> 
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/webpack.svg" alt="Webpack" width="40" height="40" /> 
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="icons/babel.svg" alt="Babel" width="40" height="40" /> 
-  </a>
-
-  <!-- BACKEND -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/nodejs.png" alt="Node.js" width="40" height="40" /> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/express.svg" alt="Express" width="40" height="40" /> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/nextjs.svg" alt="Next.js" width="40" height="40" /> 
-  </a>
-  <a href="https://strapi.io/" target="_blank" rel="noreferrer"> 
-    <img src="icons/strapi.svg" alt="Strapi" width="40" height="40" /> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/mysql.svg" alt="MySQL" width="40" height="40" /> 
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/mariadb.svg" alt="MariaDB" width="40" height="40" /> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/mongodb.svg" alt="MongoDB" width="40" height="40" /> 
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/mongoose.png" alt="Mongoose" width="40" height="40" /> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/postgresql.png" alt="PostgreSQL" width="40" height="40" /> 
-  </a>
-  <a href="https://knexjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/knex.svg" alt="Knex.js" width="40" height="40" /> 
-  </a>
-
-  <!-- OUTROS -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/googlecloud.svg" alt="Google Cloud" width="40" height="40" /> 
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img src="icons/jest.svg" alt="Jest" width="40" height="40" /> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/git.svg" alt="Git" width="40" height="40"/> 
-  </a> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
 ## 📊 GitHub Stats
