@@ -59,8 +59,23 @@ HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Express • MongoDB • MyS
      src="https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff"
      alt="Activity Graph Eloysa Siani"/>
 </p>
-<br>
-![GitHub contributions](https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
+  <a href="https://github.com/eloysasiani">
+    <img align="center" height="180" style="margin-right: 20px;"
+         src="https://github-readme-stats.vercel.app/api?username=eloysasiani&show_icons=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
+         alt="GitHub Stats Eloysa Siani"/>
+  </a>
+  <a href="https://github.com/eloysasiani">
+    <img align="center" height="180"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloysasiani&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&bg_color=0d1117" 
+         alt="Top Langs Eloysa Siani"/>
+  </a>
+</div>
+
+<br />
+
+### Contributions in the last year:  
+![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=eloysasiani&theme=tokyo-night&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff)
 
 
 <!--
